@@ -24,3 +24,10 @@ A simple text-based memory-matching game implemented in C++. The game features a
 ### Prerequisites
 - A C++ compiler
 - A command-line interface (CLI)
+
+## Steps to Run the Code
+
+git clone https://github.com/jessica-nguyen-dev/Personal-Expense-Tracker.git
+cd Personal-Expense-Tracker/Memory-Game
+g++ memory_game.cpp -o memory_game
+./memory_game
