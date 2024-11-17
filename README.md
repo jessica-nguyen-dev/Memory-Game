@@ -37,6 +37,7 @@ A simple text-based memory-matching game implemented in C++. The game features a
 
 3. Compile the C++ program:
    ```bash
+   g++ -o memory_game memory_game.cpp
 
 4. Run the compiled program:
    ```bash
