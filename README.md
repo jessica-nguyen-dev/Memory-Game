@@ -24,3 +24,20 @@ A simple text-based memory-matching game implemented in C++. The game features a
 ### Prerequisites
 - A C++ compiler
 - A command-line interface (CLI)
+
+## Installation
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/jessica-nguyen-dev/Memory-Game.git
+
+2.  Navigate to the project directory:
+    ```bash
+    cd memory-game
+
+3. Compile the C++ program:
+   ```bash
+
+4. Run the compiled program:
+   ```bash
+   ./memory_game
