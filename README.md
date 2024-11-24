@@ -29,7 +29,7 @@ A simple text-based memory-matching game implemented in C++. The game features a
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/jessica-nguyen-dev/Memory-Game.git
+    git clone https://github.com/jessica-nguyen-it/Memory-Game.git
 
 2.  Navigate to the project directory:
     ```bash
